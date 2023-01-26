@@ -1,0 +1,1 @@
+This is the final project for Codecademy's "Build a Website with HTML, CSS, and GitHub Pages Skill Path".
