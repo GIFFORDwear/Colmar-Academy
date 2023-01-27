@@ -406,3 +406,20 @@ html {
   .top .text-small {
     margin-left: 2.5rem;
   }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 0.1rem solid var(--light-grey);
+    margin: 0 1rem 1rem 1rem;
+    padding: 1rem 1rem 4rem;
+  }
+
+  footer span {
+    font-size: 1.25rem;
+    color: var(--light-grey);
+  }
+
+  span a {
+    color: var(--light-grey);
+  }
